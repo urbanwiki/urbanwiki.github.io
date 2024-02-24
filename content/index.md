@@ -2,11 +2,11 @@
 title: Four-as-of-Right Zoning in Oakville
 ---
 
-_Four-units-as-of-right_ is a type of zoning bylaw which permits by default small scale residential uses of up to four units per lot. This bylaw is enabled by changes to the planning act by [Bill 23](https://www.ola.org/en/legislative-business/bills/parliament-43/session-1/bill-23), which created expanded “as of right” development rights for small scale residential development.
+_Four-units-as-of-right_ is a type of zoning bylaw which permits by default small scale residential uses of up to four units per lot. This bylaw is enabled by changes to the planning act by [[More Homes Built Faster Act|Bill 23]], which created expanded “as of right” development rights for small scale residential development.
 
-# What Is The Current ByLaw?
+# What Is The Current By-Law?
 
-[Bill 23](https://www.ola.org/en/legislative-business/bills/parliament-43/session-1/bill-23) also contains a province-wide _three-units-as-of-right_ bylaw which permits by default small scale residential uses of up to three units per lot. The difference between _three-units-as-of-right_ and _four-units-as-of-right_ is a single unit, so its a marginal difference per lot, but a larger difference province-wide.
+[[[More Homes Built Faster Act|Bill 23]], also contains a province-wide _three-units-as-of-right_ bylaw which permits by default small scale residential uses of up to three units per lot. The difference between _three-units-as-of-right_ and _four-units-as-of-right_ is a single unit, so its a marginal difference per lot, but a larger difference province-wide.
 
 # Pros & Cons
 
