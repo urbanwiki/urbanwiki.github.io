@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Four-As-Of-Right
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Four as of right, also known as "Four Units As Of Right"
