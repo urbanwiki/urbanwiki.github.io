@@ -1,7 +1,8 @@
-_Four-units-as-of-right_ is a type of zoning by-law which permits by default small scale residential uses of up to four units per lot. This by-law is enabled by changes to the planning act by [[More Homes Built Faster Act|Bill 23]], which created expanded “as of right” development rights for small scale residential development.
-> [!info] Policy Status - *Public Consultation*
+> [!info] Policy Status -> Public Consultation
 > Oakville Town Council will hear public feedback on [[four-as-of-right]] zoning in Oakville on March 4 at the [Planning and Development Meeting](https://pub-oakville.escribemeetings.com/Meeting.aspx?Id=d1136dc5-4b20-4348-a39f-106acf75459e)
-> You can view the proposed amendments [here](https://www.oakville.ca/town-hall/news-notices/2024-planning-public-notices-archive/statutory-public-meeting-for-proposed-town-wide-official-plan-and-zoning-by-law-amendments/)
+> You can view the proposed amendments [[Four-as-of-Right Zoning in Oakville#The Proposed By-Law|here]]
+
+_Four-units-as-of-right_ is a type of zoning by-law which permits by default small scale residential uses of up to four units per lot. This by-law is enabled by changes to the planning act by [[More Homes Built Faster Act|Bill 23]], which created expanded “as of right” development rights for small scale residential development.
 
 # Timeline of By-law
 | Date         | Summary                                                                                                                   |
@@ -42,11 +43,11 @@ The effect of the proposed amendments to Zoning By-law 2014-014 to Zoning By-law
 | Gentle density              | The by-laws don't violate existing municipal by-laws, it preserves the character of neighbourhoods while achieving density |
 | Community driven            | Community driven opportunity, where residents can decide what density they want                                            |
 
-| Cons                                            | Details                                                                                                                                                                                                |
-| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Low usage                                       | So far in Oakville, only 0.003% of eligible units for _three-units-as-of-right_ have filed for new development. Its unlikely that without proper outreach and awareness that this number will increase |
-| Doesn't guarantee new housing                   | By allowing four units on a lot, residents can self-direct the growth of the housing supply                                                                                                            |
-| Doesn't include affordable housing requirements | The by-law doesn't make a requirement for any affordable units to be built on it's own. That would have to be done in another bill or amended to this one                                              | 
+| Cons                               | Details                                                                                                                                                                                                |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Low usage                          | So far in Oakville, only 0.003% of eligible units for _three-units-as-of-right_ have filed for new development. Its unlikely that without proper outreach and awareness that this number will increase |
+| Doesn't build new housing          | The by-law just says what is allowed to be built. It doesn't make any requirements to actually build something. See: [[How zoning works]]                                                              | 
+| No affordable housing requirements | The by-law doesn't make a requirement for any affordable units to be built on it's own. That would have to be done in another bill or amended to this one                                              |
 
 # Voting Record
 
