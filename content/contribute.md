@@ -7,8 +7,8 @@ title: Contribute to Urban Wiki 🙌
 
 # Requesting an Article
 
-Thats good with us. If you're willing to write it yourself, it will be posted very quickly. Otherwise, we need to prioritize what we can write. Regardless, make an [issue on GitHub](https://github.com/urbanwiki/urbanwiki.github.io/issues/new/choose) following the `Request An Article` template.
+Thats good with us. If you're willing to write it yourself, it will be posted very quickly. Otherwise, we need to prioritize what we can write. Regardless, make an [issue on GitHub](https://github.com/urbanwiki/urbanwiki.github.io/issues/new/choose) following the `Request an Article` template.
 
 # You Have a Spelling / Typo / Grammar Mistake
 
-Thanks for pointing it out. I'm kind of a bad speller. Please make an [issue on GitHub](https://github.com/urbanwiki/urbanwiki.github.io/issues/new/choose) following the `Report A Mistake` template.
+Thanks for pointing it out. I'm kind of a bad speller. Please make an [issue on GitHub](https://github.com/urbanwiki/urbanwiki.github.io/issues/new/choose) following the `Report a Mistake` template.
