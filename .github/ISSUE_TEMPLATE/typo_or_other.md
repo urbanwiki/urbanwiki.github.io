@@ -1,5 +1,5 @@
 ---
-name: Report a typo or a spelling mistake.
+name: Report a Mistake
 about: Thanks for the heads up!
 title: ""
 labels: typo
