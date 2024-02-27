@@ -41,7 +41,6 @@ The effect of the proposed amendments to the Livable Oakville Plan and North Oak
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Low usage                          | So far in Oakville, only 0.003% of eligible units for _three-units-as-of-right_ have filed for new development. Its unlikely that without proper outreach and awareness that this number will increase |
 | Doesn't build new housing          | The by-law just says what is allowed to be built. It doesn't make any requirements to actually build something.                                                                                        | 
-| No affordable housing requirements | The by-law doesn't make a requirement for any affordable units to be built on it's own. That would have to be done in another bill or amended to this one                                              |
 
 # Voting Record
 
