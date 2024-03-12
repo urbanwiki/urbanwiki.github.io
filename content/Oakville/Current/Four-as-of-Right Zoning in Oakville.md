@@ -1,3 +1,8 @@
+---
+title: Four-As-Of-Right Zoning in Oakville
+authors: ["Geoffrey Belcher"]
+---
+
 > [!info] Policy Status -> Public Consultation
 > Oakville Town Council will hear public feedback on [[Four-as-of-right|four-as-of-right]] zoning in Oakville on March 4 at the [Planning and Development Meeting](https://pub-oakville.escribemeetings.com/Meeting.aspx?Id=d1136dc5-4b20-4348-a39f-106acf75459e)
 > You can view the proposed amendments [[Four-as-of-Right Zoning in Oakville#The Proposed By-Law|here]]
@@ -27,7 +32,7 @@ This is the proposed by-law from the Oakville website[^1]
 
 ## Key Takeaways
 - These amendments focus on expanding housing options by allowing additional dwelling units while addressing parking and access concerns. It's designed to provide clarity in terminology, define unit types, and establish regulations for their construction and use.
-- Any extra units must be compliant with the building code and municipal by-laws[^2]. This means they ***cannot*** violate:
+- Any extra units must be compliant with the building code and municipal by-laws.[^2] This means they ***cannot*** violate:
 	- Building height restrictions
 	- Setbacks
 	- Aesthetic "look-and-feel" of the building

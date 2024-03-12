@@ -7,7 +7,12 @@ title: Welcome to Urban Wiki 🏡
 > See more on our [[about]] page.
 > See here if you want to [[contribute]].
 
-# Recent Articles
+# Featured Articles
+- [[Parking Minimums]]
 - [[Four-as-of-Right Zoning in Oakville]]
-# By Municipality
+# Directories
+- [[Policy Book/]]
+# Places
+- [[Ontario/]]
+- [[Toronto/]]
 - [[Oakville/]]

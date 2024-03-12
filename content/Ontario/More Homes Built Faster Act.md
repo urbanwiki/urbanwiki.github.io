@@ -1,6 +1,7 @@
 ---
+title: More Homes Built Faster Act
 alias: "Bill 23"
-year: 2022
+authors: ["Geoffrey Belcher"]
 ---
 The *More Homes Built Faster Act* (also known as *Bill 23*), is a bill that was passed with the goal of creating more homes in Ontario. You can read the entire bill [here](https://www.ola.org/en/legislative-business/bills/parliament-43/session-1/bill-23)
 
