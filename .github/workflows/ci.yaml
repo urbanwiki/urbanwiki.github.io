@@ -53,7 +53,7 @@ jobs:
           tag_prefix: "v"
 
   automerge:
-    needs: build
+    needs: build-and-test
     runs-on: ubuntu-latest
 
     permissions:
